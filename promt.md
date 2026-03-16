@@ -1,5 +1,5 @@
 #একটি প্রযেক্ট তৈরি জন্য protype দাও 
-*প্রযেক্ট টি হবে এরকম সমস্ত মিটারের Manual ও specification এর datahub হবে এটি mongodb,next.js, pbsnet-worker ব্যবহার করবে
+*প্রযেক্ট টি হবে এরকম সমস্ত মিটারের Manual ও specification এর datahub হবে এটি mongodb,next.js,imagebb, pbsnet-worker api for auth ব্যবহার করবে
 
  *যে কোন মিটার manual এর specification যেকোন ব্যবহারকারি যুক্ত করতে পারবে এবং admin তা approve করলে তা পাবলিক সবাই দেখতে পারবে 
   specification এ থাকবে meter manufacturer, types,Item,id-note, accrecy clas, error class, terminal point,
